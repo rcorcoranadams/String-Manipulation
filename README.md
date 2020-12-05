@@ -1,8 +1,8 @@
-- Name: Rachel Corcoran-Adams
-- Date created: September 25, 2020
-- Version of Python: 8.5
+# String Manipulation with Weather Data
+# Rachel Corcoran-Adams
+# September 25, 2020
+Version of Python: 2.7.5
 
-You should edit your README file to provide the following information:
 - These scripts are broken into three parts:
   1. The first script writes a function that capitalizes the first and fourth letters of a name.
   2. The second script produces the output below using string manipulation techniques:
